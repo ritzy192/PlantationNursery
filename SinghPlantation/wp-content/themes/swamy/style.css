@@ -89,7 +89,7 @@ a{
 header{background:#FFF;}
 
 .header-top{
-	background:#f0bc00 url(images/tog-bg.png) center top;
+	background:#145B5B url(images/tog-bg.png) center top;
 	border-bottom: 1px solid rgba(255,255,255,0.5);
 	padding:0px;
 	}
@@ -111,7 +111,7 @@ header{background:#FFF;}
    line-height:30px;
    text-decoration:none;
    text-align:center;
-   color:#f0bc00;
+   color:#145B5B;
    background:rgba(255,255,255,0.8);
    -webkit-transition: all 1.5s ease;
    -moz-transition: all 1.5s ease;
@@ -419,7 +419,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .dropdown-menu li:last-child{border-bottom: 3px solid #f58634;}
 .dropdown-menu li a:hover{background:none; color:#f58634;}
 
-.slider-seperator{background:rgb(248, 196, 0);height:5px;}
+.slider-seperator{background:rgb(83, 68, 84);height:5px;}
 
 .seperator-icon{
 	position: absolute;
@@ -486,10 +486,10 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .fig-caption h5{margin-top:0px; color:#4D4D4D; font-size:16px; font-weight:normal}
 
 footer {
-	background: #66ab36 url(images/ftr-bg.png); 
+	background: #145B5B url(images/ftr-bg.png); 
 	padding: 20px 0 10px;
 	margin-top: 0px;
-	border-top: 4px solid #f8c400;
+	border-top: 4px solid #534454;
 }
 footer p {
 	color: #ffffff;

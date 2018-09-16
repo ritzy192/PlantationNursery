@@ -178,7 +178,7 @@ header{background:#FFF;}
 
 .dropdown-menu {
 	padding:0px;
-	background:rgba(102,171,54, 0.9) !important;
+	background:rgba(54, 154, 171, 1) !important;
 	border:0px;
 	}
 
@@ -278,7 +278,7 @@ header{background:#FFF;}
 }
 
 
-.breadcrumb-section { width:100%; margin:0px 0px 20px; padding:8px 0px 8px; float:left; clear:both; background:#66AB36 url(images/bread-crub.png) ; font-family: 'Open Sans', sans-serif;}
+.breadcrumb-section { width:100%; margin:0px 0px 20px; padding:8px 0px 8px; float:left; clear:both; background:#66AB36; font-family: 'Open Sans', sans-serif;}
 .breadcrumb-section h3{color:#FFF;}
 ul.breadcrumb{margin:0px 0 0;background:transparent;}
 ul.breadcrumb>li{text-shadow:none}

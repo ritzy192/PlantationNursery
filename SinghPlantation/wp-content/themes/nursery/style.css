@@ -1,11 +1,3 @@
-/*
-Theme Name: Swamy Nursery
-Theme URI: http://www.swamy.in/
-Version: 1.0
-Author: EMS Webtech
-Author URI: http://www.emswebtech.com/
-*/
-
 /*@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:300,400); */
 
 /***** Font Definition for Museo Slab *****/
@@ -89,7 +81,7 @@ a{
 header{background:#FFF;}
 
 .header-top{
-	background:#145B5B url(images/tog-bg.png) center top;
+	background: url(images/tog-bg.png) center top;
 	border-bottom: 1px solid rgba(255,255,255,0.5);
 	padding:0px;
 	}
@@ -486,7 +478,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .fig-caption h5{margin-top:0px; color:#4D4D4D; font-size:16px; font-weight:normal}
 
 footer {
-	background: #145B5B url(images/ftr-bg.png); 
+	background: url(images/ftr-bg.png); 
 	padding: 20px 0 10px;
 	margin-top: 0px;
 	border-top: 4px solid #534454;
@@ -504,10 +496,10 @@ footer p a:hover {
 	text-align: right;
 }
 .designed a {
-	color: #f8c400;
+	color: #1127f9;
 }
 .designed a:hover {
-	color: #ff8b03;
+	color: #25455a;
 }
 /* Scroll to top */
 
@@ -654,7 +646,7 @@ padding: 20px 0 0px 0 !important;
 }
 
 
-.splash img{margin-bottom:10px; !important}
+.splash img{margin-bottom:10px !important}
 
 
 .services-box {
@@ -719,7 +711,7 @@ table.tableizer-table {
 	text-align:center;
 }
 
-.tableizer-table td : first{
+.tableizer-table td:first{
 	padding: 4px;
 	margin: 3px;
 	border: 0px solid #2f5b06;

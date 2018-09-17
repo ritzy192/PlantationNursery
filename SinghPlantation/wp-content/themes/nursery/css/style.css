@@ -654,7 +654,7 @@ padding: 20px 0 0px 0 !important;
 }
 
 
-.splash img{margin-bottom:10px; !important}
+.splash img{margin-bottom:10px !important}
 
 
 .services-box {
@@ -719,7 +719,7 @@ table.tableizer-table {
 	text-align:center;
 }
 
-.tableizer-table td : first{
+.tableizer-table td:first{
 	padding: 4px;
 	margin: 3px;
 	border: 0px solid #2f5b06;

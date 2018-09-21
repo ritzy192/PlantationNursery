@@ -3019,11 +3019,26 @@ fieldset[disabled] .btn {
   opacity: .65;
 }
 .btn-default {
-  color: #333;
-  background-color: #fff;
-  border-color: #ccc;
+  /* color: #333;
+  background-color: #369aab;;
+  border-color: #ccc; */
+  display: inline-block;
+	border-bottom: 3px solid rgba(255,255,255,0.3);
+	padding: 10px 15px 7px;
+	border-radius: 4px;
+	background-color: #369aab;
+	color: #fff !important;
+	text-decoration: none;
+	-webkit-transition: all 0.15s ease-in 0s; 
+	-moz-transition: all 0.15s ease-in 0s; 
+	-o-transition: all 0.15s ease-in 0s; 
+	transition: all 0.15s ease-in 0s;
+	background-repeat: no-repeat;
+	font-style: italic;
 }
-.btn-default:hover,
+.btn-default:hover{
+	background-color: #5f84b4;
+}
 .btn-default:focus,
 .btn-default.focus,
 .btn-default:active,
@@ -4577,7 +4592,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   color: #444;
 }
 .breadcrumb {
-  padding: 8px 15px;
+  padding: 15px 15px;
   margin-bottom: 20px;
   list-style: none;
   background-color: #f5f5f5;

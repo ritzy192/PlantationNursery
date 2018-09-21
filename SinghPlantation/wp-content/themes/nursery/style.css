@@ -90,8 +90,8 @@ header{background:#FFF;}
 	text-align: left;
 	margin-top: 0px;
 	padding:10px 35px;
-	border-left: 1px solid rgba(255,255,255,0.5);
-	border-right: 1px solid rgba(255,255,255,0.5);
+	border-left: 1px;
+	border-right: 1px;
 	display:inline-block;
 }
 
@@ -118,8 +118,8 @@ header{background:#FFF;}
 
 .tele{
 	padding:5px 35px;
-	border-left: 1px solid rgba(255,255,255,0.5);
-	border-right: 1px solid rgba(255,255,255,0.5);
+	border-left: 1px;
+	border-right: 1px;
 	display:inline-block;
 	float:right;
 
@@ -149,7 +149,8 @@ header{background:#FFF;}
 	display: inline-block;
 	border-bottom: 3px solid rgba(255,255,255,0.3);
 	padding: 10px 15px 7px;
-	background-color: #66ab36;
+	border-radius: 4px;
+	background-color: #369aab;
 	color: #fff !important;
 	text-decoration: none;
 	-webkit-transition: all 0.15s ease-in 0s; 
@@ -161,7 +162,7 @@ header{background:#FFF;}
 }
 
 .button > a:hover{
-	background-color: #96ca42;
+	background-color: #5f84b4;
 }
 
 .grey a{background-color:#959595;}

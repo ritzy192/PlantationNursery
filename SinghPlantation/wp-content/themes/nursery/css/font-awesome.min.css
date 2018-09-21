@@ -593,6 +593,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
 	content: "\f099"
 }
 .fa-facebook-f:before, .fa-facebook:before {
+	   
 	content: "\f09a"
 }
 .fa-github:before {

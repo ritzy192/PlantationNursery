@@ -103,8 +103,7 @@ header{background:#FFF;}
    line-height:30px;
    text-decoration:none;
    text-align:center;
-   color:#145B5B;
-   background:rgba(255,255,255,0.8);
+   color:#fff;
    -webkit-transition: all 1.5s ease;
    -moz-transition: all 1.5s ease;
    -ms-transition: all 1.5s ease;
